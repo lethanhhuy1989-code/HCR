@@ -1,0 +1,8 @@
+{
+  "name": "HRM Enterprise - Quản Lý Nhân Sự & Thang Bảng Lương",
+  "description": "Hệ thống quản lý nhân sự, hợp đồng lao động, bảo hiểm xã hội, thang bảng lương đa bậc và tính lương chuẩn doanh nghiệp Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
